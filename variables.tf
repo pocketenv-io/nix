@@ -33,5 +33,6 @@ variable "volumes" {
   description = "Volumes to mount"
   default = {
     nix-workspace = "/home/coder"
+    nix-store = "/nix"
   }
 }
