@@ -34,5 +34,6 @@ variable "volumes" {
   default = {
     nix-workspace = "/home/coder"
     nix-store = "/nix"
+    nix-docker-volumes = "/var/lib/docker"
   }
 }
