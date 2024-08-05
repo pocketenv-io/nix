@@ -17,3 +17,4 @@ pocketenv init -t nix
 - Atuin
 - Direnv
 - Git
+- Docker
