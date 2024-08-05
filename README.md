@@ -13,7 +13,7 @@ pocketenv init -t nix
 ## ✨ Features
 
 - Nix
-- Ohmyposh
+- Oh-my-posh
 - Atuin
 - Direnv
 - Git
